@@ -11,3 +11,4 @@ pet=input("What's your pet's name?\n")
 
 # Step 4: Combine the city and pet name to form the band name
 print("Your brand name could be "+city+" "+pet);
+
