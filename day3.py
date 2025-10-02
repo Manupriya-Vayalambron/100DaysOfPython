@@ -1,5 +1,5 @@
 # Treasure Island Game
-# A simple text-based adventure game where the player makes choices to find a treasure.
+# A simple text-based adventure game where the player makes choices to find a treasure and wins by luck.
 # ASCII art used from https://ascii.co.uk/ to create the opening banner.
 
 # Print the ASCII art banner
