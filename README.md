@@ -12,10 +12,10 @@ This repository is my personal journey through **100 Days of Code: The Complete 
 
 ```
 100-days-of-python/
-├── Day-001/
-├── Day-002/
+├── day1.py/
+├── day2.py/
 ├── ...
-├── Day-100/
+├── day100.py/
 └── README.md
 ```
 
