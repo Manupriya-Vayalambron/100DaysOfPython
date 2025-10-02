@@ -22,4 +22,3 @@ formatted_share = "{:.2f}".format(share)
 
 # Display the final amount each person should pay
 print(f"Each person should pay: ${formatted_share}")
-
